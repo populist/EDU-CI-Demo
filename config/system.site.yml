@@ -1,0 +1,14 @@
+uuid: 6f542ca2-f4da-4e8f-951e-907a9a4cf45e
+name: edu-ci-demo
+mail: matt@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
